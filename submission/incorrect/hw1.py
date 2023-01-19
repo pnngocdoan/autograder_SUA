@@ -2,7 +2,7 @@
 
 def hw1_1():
     # Output “Hello, World!” after return
-    return Hello, World!
+    return "Hello, World!"
 
 def hw1_2a():
     # 1 + 10
