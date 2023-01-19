@@ -1,0 +1,7 @@
+Test Assignment 1:
+1. Output “Hello, World!”. (2 pt)
+2. Output the result of “1 + 10”, “5 - 9”, “2 / 3”, “9 // 4”, “7**5”, “8*2”. (1 pt each)
+3. Try using variables. Output “Hello, [your name]” (3 pt)
+
+total: 11pt
+
