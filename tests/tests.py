@@ -55,5 +55,5 @@ class TestHw1(unittest.TestCase):
     @weight(3)
     def test_hw1_3(self):
         ans = "Hello, "
-        output = hw1_3()[0:8]
+        output = hw1_3()[0:7]
         self.assertEqual(output, ans)

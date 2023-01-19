@@ -1,7 +1,8 @@
 #Correct Answer
+
 def hw1_1():
     # Output “Hello, World!” after return
-    return print("Hello, World!")
+    return "Hello, World!"
 
 def hw1_2a():
     # 1 + 10
