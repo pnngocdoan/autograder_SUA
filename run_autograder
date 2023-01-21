@@ -5,15 +5,12 @@
 
 
 cp /autograder/submission/hw1_1.py /autograder/source/hw1_1.py
-
 cd /autograder/source
 
 cp /autograder/submission/hw1_2.py /autograder/source/hw1_2.py
-
 cd /autograder/source
 
 cp /autograder/solution/hw1_2_solution.py /autograder/source/hw1_2_solution.py
-
 cd /autograder/source
 
 python3 run_tests.py
