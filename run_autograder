@@ -2,7 +2,7 @@
 
 # Set up autograder files
 
-cp /autograder/submission/hw1.py /autograder/source/hw1.py
+cp /autograder/submission/hw1_1.py /autograder/source/hw1_1.py
 
 cd /autograder/source
 
