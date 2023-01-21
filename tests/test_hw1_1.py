@@ -5,7 +5,7 @@ from io import StringIO
 try:
     from hw1_1 import *
 except Exception:
-    raise Exception(f'Could not process your file, remember to work off of the template.')
+    raise Exception(f'Could not process your file, remember to code under the main() function or not change the original file name.')
 
 class TestHw1_1(unittest.TestCase):
     def setUp(self):
@@ -13,7 +13,7 @@ class TestHw1_1(unittest.TestCase):
     
     @weight(2)
     def test_hw1_1(self):
-        ans = "Hello, World!"
+        ans = "Hello, World!\n"
         with patch('sys.stdout', new = StringIO()) as submission:
             main()
             self.assertEqual(submission.getvalue(), ans)
