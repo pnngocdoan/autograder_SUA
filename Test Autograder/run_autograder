@@ -10,4 +10,7 @@ cd /autograder/source
 cp /autograder/submission/hw1_2.py /autograder/source/hw1_2.py
 cd /autograder/source
 
+cp /autograder/submission/hw1_3.py /autograder/source/hw1_3.py
+cd /autograder/source
+
 python3 run_tests.py
