@@ -1,4 +1,4 @@
-# OFFICIAL AUTO-GRADER FOR PROGRAMMING ASSIGNMENTS - SOKA UNIVERSITY OF AMERICA
+# Official Auto-grader for Programming Assignments - Soka University of America
 
 Creator: Ngoc Doan
 
