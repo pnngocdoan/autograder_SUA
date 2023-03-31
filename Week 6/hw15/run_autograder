@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cp /autograder/submission/hw10.py /autograder/source/hw10.py
+cp /autograder/submission/hw15.py /autograder/source/hw15.py
 cd /autograder/source
 
 python3 run_tests.py
